@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.52684739.css",
-    "main.js": "/static/js/main.094cf755.js",
+    "main.css": "/static/css/main.224e8d0b.css",
+    "main.js": "/static/js/main.feeabe3a.js",
     "static/js/787.a25f1f37.chunk.js": "/static/js/787.a25f1f37.chunk.js",
     "static/media/JennaOrtega.jpg": "/static/media/JennaOrtega.eda2a043d82d4cd2db2d.jpg",
-    "static/media/hero.jpg": "/static/media/hero.9c5824642ea141ea3404.jpg",
     "static/media/EmmaMayers.jpg": "/static/media/EmmaMayers.1a22f430a23750d5a08f.jpg",
+    "static/media/pexels1.jpg": "/static/media/pexels1.967b334594319abebfc2.jpg",
     "static/media/EmmaWatson.jpg": "/static/media/EmmaWatson.ec7386165b3491c5ab74.jpg",
+    "static/media/pexels3.jpg": "/static/media/pexels3.c67cd4d3c11edf739902.jpg",
+    "static/media/pexels4.jpg": "/static/media/pexels4.962c1a6888bcfba2567d.jpg",
     "static/media/Logo.png": "/static/media/Logo.23b21659af500cbaa254.png",
     "static/media/Crab_Linguine.jpeg": "/static/media/Crab_Linguine.648c5f547ff28ee30c3b.jpeg",
+    "static/media/pexels2.jpg": "/static/media/pexels2.e3f6750e8640312110e0.jpg",
     "static/media/Tequila Lime Shrimp.jpeg": "/static/media/Tequila Lime Shrimp.929298a7a3217540b4cc.jpeg",
     "static/media/Garlic Butter Shrimp.jpeg": "/static/media/Garlic Butter Shrimp.4ea7706e137972f72089.jpeg",
     "static/media/Prawn Risotto.jpeg": "/static/media/Prawn Risotto.95701584a8244e5ffded.jpeg",
@@ -46,12 +49,12 @@
     "static/media/youtube.png": "/static/media/youtube.060528b6e83f2004078d.png",
     "static/media/facebook.png": "/static/media/facebook.49e67d43221b6bb1aa86.png",
     "index.html": "/index.html",
-    "main.52684739.css.map": "/static/css/main.52684739.css.map",
-    "main.094cf755.js.map": "/static/js/main.094cf755.js.map",
+    "main.224e8d0b.css.map": "/static/css/main.224e8d0b.css.map",
+    "main.feeabe3a.js.map": "/static/js/main.feeabe3a.js.map",
     "787.a25f1f37.chunk.js.map": "/static/js/787.a25f1f37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52684739.css",
-    "static/js/main.094cf755.js"
+    "static/css/main.224e8d0b.css",
+    "static/js/main.feeabe3a.js"
   ]
 }
