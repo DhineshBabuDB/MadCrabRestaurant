@@ -1,11 +1,10 @@
 .ratings{
+    max-width: 100vw;
     background: linear-gradient(to bottom, #ffffff, #0dfed2);
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 3rem;
     height: 90vh;
-    padding: 0rem 4rem;
     justify-content: center;
 }
 
@@ -25,21 +24,16 @@
 }
 
 .ratings-banner{
-    display: grid;
+    width: 100%;
+    display: flex;
     grid-template-columns: repeat(3,1fr);
-}
-
-@media (max-width: 1350px) {
-    .ratings-banner{ 
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    }
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 @media (max-width: 790px) {
     .ratings-banner{
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
+        flex-direction: column;
     }
 
     .ratings-title p{

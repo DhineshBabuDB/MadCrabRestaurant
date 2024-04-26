@@ -9,6 +9,7 @@ const Cart = ({cartItems, itemRemove}) => {
 // Incrementing item quantity in the cart
   const handleUpgrade = (itemId) => {
     setQuantities((prevQuantities) => {
+      console.log(quantities)
       return {...prevQuantities,[itemId]: (prevQuantities[itemId] || 0) + 1,};
     });
   };

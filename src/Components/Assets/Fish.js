@@ -30,12 +30,6 @@ import Shrimp9 from "./Shrimp/Shrimp Scampi.jpeg"
 import Shrimp10 from "./Shrimp/Tequila Lime Shrimp.jpeg"
 
 
-
-
-
-
-
-
 let all_recipies = [
     {
       id: 1,

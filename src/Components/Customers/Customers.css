@@ -1,10 +1,10 @@
 .review-box{
-    display: inline-flex;
+    display: flex;
     width: 18.75rem;
     align-items: center;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 2rem;
-    padding: 2rem 5rem;
 }
 
 .review-image{
@@ -12,11 +12,12 @@
     flex-direction: column;
     font-size: 2rem;
     align-items: center;
+    justify-content: center;
     font-weight: 800;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 3rem;
     text-shadow: 2px 2px 4px rgba(9, 0, 0, 0.723);
 }
+
 .review-image img{
     border-radius: 50%;
     padding: 4px;
@@ -33,6 +34,23 @@
 
 .review-image span{
     color: white;
+}
+
+@media (max-width:991px) {
+    .review-box{
+        width: 14.75rem;
+        padding: 2rem 0;
+    }
+
+    .review-image{
+        width: 100%;
+    }
+
+    .review-image img{
+        width: 60%;
+        height: 80%;
+    }
+
 }
 
 
